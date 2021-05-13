@@ -25,4 +25,4 @@ Aircraft aerodynamic properties:
 • Maximum lift coefficient in takeoff configuration: CL,TO = 1.423
 • Maximum lift coefficient in landing configuration: CL,L = 1.203
 • Parasitic drag coefficient at takeoff: CD,0 TO = 0.013
-• Parasitic drag coefficient with spoilers deployed: CD,0 spoilers = 1.1  CD,0 TO
+• Parasitic drag coefficient with spoilers deployed: CD,0 spoilers = 1.1 * CD,0 TO
